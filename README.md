@@ -110,6 +110,6 @@ Works in all modern browsers that support CSS `perspective`, 3D transforms, `col
 
 <p align="center">
   <a href="https://feitonobrasil.dev.br" aria-label="Feito no Brasil">
-    <img src="https://selo.feitonobrasil.dev.br/pt-br/colorido/1x.svg" alt="Feito no Brasil" width="250" height="120" loading="lazy" />
+    <img src="https://selo.feitonobrasil.dev.br/pt-br/branco/1x.svg" alt="Feito no Brasil" width="250" height="120" loading="lazy" />
   </a>
 </p>
